@@ -3,7 +3,7 @@
 An NLP-based safety compliance system that automatically detects workplace safety violations by comparing activity logs against predefined safety rules using **sentence embeddings** and **cosine similarity**. Built with `sentence-transformers` and zero-shot learning — no labeled dataset required.
  
 <p align="center">
-  <img src="images/safety_overview.png" width="480">
+  <img src="output.png" width="480">
 </p>
  
 ---
